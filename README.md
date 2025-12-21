@@ -5,6 +5,12 @@ This project was developed as part of a **Front End Developer assignment**, stri
 
 ---
 
+
+## 🚀 Live Demo
+
+🔗 **Live Site:** https://chandu1108.github.io/restaurant-ui/
+
+
 ## 📸 Preview
 
 ### Desktop View
@@ -67,10 +73,6 @@ yaml
 Copy code
 
 ---
-
-## 🚀 Live Demo
-
-🔗 **Live Site:** https://chandu1108.github.io/restaurant-ui/
 
 
 ---
