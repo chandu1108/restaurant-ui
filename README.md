@@ -69,8 +69,6 @@ food-landing-page/
 │
 └── README.md
 
-yaml
-Copy code
 
 ---
 
